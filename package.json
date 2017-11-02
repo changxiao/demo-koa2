@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/changxiao/demo-koa2#readme",
   "dependencies": {
-    "koa": "^2.3.0"
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0"
   }
 }
